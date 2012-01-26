@@ -1,0 +1,7 @@
+name: NoCaps
+version: 1.0.0
+description: Simple anti caps plugin
+author: md_5
+website: https://github.com/md-5/NoCaps
+
+main: com.md_5.nocaps.NoCaps
